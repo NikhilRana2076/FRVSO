@@ -1,2 +1,2 @@
 # FRVSO
- My seventh-semester project, 'Facial Recognition Voting with OTPs,' is an innovative system designed to enhance the voting process.
+My seventh-semester project, 'Facial Recognition Voting with OTPs,' is an innovative system designed to enhance the security and integrity of college event voting procedures. This project combines two robust authentication mechanisms: facial recognition technology (utilizing LBPH and Haar Cascade algorithms) and one-time passwords (OTPs). It represents a significant milestone in my academic journey.
